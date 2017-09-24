@@ -1,0 +1,689 @@
+2017-09-03 03:13:24,619 - Mock Version: 1.4.4
+2017-09-03 03:13:25,580 - Start: yum update
+2017-09-03 03:13:28,218 - Finish: yum update
+2017-09-03 03:13:28,225 - Finish: chroot init
+2017-09-03 03:13:28,226 - Start: build phase for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:13:28,227 - Start: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:18:25,139 - Finish: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:18:25,139 - Start: rpmbuild kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:18:25,140 - Start: Outputting list of installed packages
+2017-09-03 03:18:25,372 - Finish: Outputting list of installed packages
+2017-09-03 03:19:01,100 - Start: clean chroot
+2017-09-03 03:19:07,956 - Finish: clean chroot
+2017-09-03 03:21:18,108 - Mock Version: 1.4.4
+2017-09-03 03:21:19,121 - Finish: chroot init
+2017-09-03 03:21:19,123 - Start: build phase for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:21:19,124 - Start: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:21:20,382 - Start: clean chroot
+2017-09-03 03:22:23,567 - Mock Version: 1.4.4
+2017-09-03 03:22:23,695 - Start: clean chroot
+2017-09-03 03:22:25,341 - Finish: clean chroot
+2017-09-03 03:24:24,102 - Mock Version: 1.4.4
+2017-09-03 03:24:24,969 - Finish: chroot init
+2017-09-03 03:24:24,971 - Start: build phase for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:24:24,971 - Start: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:29:13,918 - Finish: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:29:13,918 - Start: rpmbuild kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 03:29:13,919 - Start: Outputting list of installed packages
+2017-09-03 03:29:14,153 - Finish: Outputting list of installed packages
+2017-09-03 03:29:57,766 - Start: clean chroot
+2017-09-03 03:30:04,540 - Finish: clean chroot
+2017-09-03 04:06:36,062 - Mock Version: 1.4.4
+2017-09-03 04:06:37,058 - Finish: chroot init
+2017-09-03 04:06:37,060 - Start: build phase for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 04:06:37,061 - Start: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 04:11:42,466 - Finish: build setup for kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 04:11:42,466 - Start: rpmbuild kodi-headless-17.4-1.el7.centos.src.rpm
+2017-09-03 04:11:42,467 - Start: Outputting list of installed packages
+2017-09-03 04:11:42,698 - Finish: Outputting list of installed packages
+2017-09-03 04:12:27,050 - Start: clean chroot
+2017-09-03 04:12:33,494 - Finish: clean chroot
+2017-09-03 04:24:22,300 - Mock Version: 1.4.4
+2017-09-03 04:24:23,200 - Finish: chroot init
+2017-09-03 04:24:23,202 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 04:24:23,203 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 04:29:14,981 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 04:29:14,981 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 04:29:14,982 - Start: Outputting list of installed packages
+2017-09-03 04:29:15,213 - Finish: Outputting list of installed packages
+2017-09-03 04:30:00,085 - Start: clean chroot
+2017-09-03 04:30:06,166 - Finish: clean chroot
+2017-09-03 05:03:16,694 - Mock Version: 1.4.4
+2017-09-03 05:03:17,975 - Finish: chroot init
+2017-09-03 05:03:17,976 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:03:17,977 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:08:15,736 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:08:15,736 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:08:15,737 - Start: Outputting list of installed packages
+2017-09-03 05:08:15,968 - Finish: Outputting list of installed packages
+2017-09-03 05:23:42,149 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:23:42,156 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:23:42,159 - Finish: run
+2017-09-03 05:37:41,275 - Mock Version: 1.4.4
+2017-09-03 05:37:44,596 - Finish: chroot init
+2017-09-03 05:37:44,598 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:37:44,598 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:37:49,354 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:37:49,354 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:37:49,354 - Start: Outputting list of installed packages
+2017-09-03 05:37:49,586 - Finish: Outputting list of installed packages
+2017-09-03 05:55:55,922 - Mock Version: 1.4.4
+2017-09-03 05:55:59,362 - Finish: chroot init
+2017-09-03 05:55:59,364 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:55:59,364 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:56:04,488 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:56:04,488 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 05:56:04,489 - Start: Outputting list of installed packages
+2017-09-03 05:56:04,721 - Finish: Outputting list of installed packages
+2017-09-03 06:10:13,374 - Mock Version: 1.4.4
+2017-09-03 06:10:28,402 - Mock Version: 1.4.4
+2017-09-03 06:10:30,176 - Finish: chroot init
+2017-09-03 06:10:30,177 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:10:30,178 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:10:36,151 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:10:36,151 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:10:36,152 - Start: Outputting list of installed packages
+2017-09-03 06:10:36,383 - Finish: Outputting list of installed packages
+2017-09-03 06:16:43,314 - Mock Version: 1.4.4
+2017-09-03 06:16:46,277 - Finish: chroot init
+2017-09-03 06:16:46,279 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:16:46,279 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:16:51,240 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:16:51,240 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:16:51,241 - Start: Outputting list of installed packages
+2017-09-03 06:16:51,473 - Finish: Outputting list of installed packages
+2017-09-03 06:35:57,484 - Mock Version: 1.4.4
+2017-09-03 06:36:00,724 - Finish: chroot init
+2017-09-03 06:36:00,725 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:36:00,726 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:36:06,124 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:36:06,124 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:36:06,125 - Start: Outputting list of installed packages
+2017-09-03 06:36:06,356 - Finish: Outputting list of installed packages
+2017-09-03 06:51:34,842 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:51:34,843 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 06:51:34,844 - Finish: run
+2017-09-03 07:49:34,950 - Mock Version: 1.4.4
+2017-09-03 07:49:38,311 - Finish: chroot init
+2017-09-03 07:49:38,313 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:49:38,314 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:49:44,300 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:49:44,301 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:49:44,301 - Start: Outputting list of installed packages
+2017-09-03 07:49:44,536 - Finish: Outputting list of installed packages
+2017-09-03 07:57:35,354 - Mock Version: 1.4.4
+2017-09-03 07:57:38,687 - Finish: chroot init
+2017-09-03 07:57:38,689 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:57:38,690 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:57:43,669 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:57:43,669 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 07:57:43,670 - Start: Outputting list of installed packages
+2017-09-03 07:57:43,902 - Finish: Outputting list of installed packages
+2017-09-03 08:04:06,984 - Mock Version: 1.4.4
+2017-09-03 08:04:07,854 - Finish: chroot init
+2017-09-03 08:04:07,855 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:04:07,856 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:04:34,050 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:04:34,050 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:04:34,051 - Start: Outputting list of installed packages
+2017-09-03 08:04:34,181 - Finish: Outputting list of installed packages
+2017-09-03 08:13:37,902 - Mock Version: 1.4.4
+2017-09-03 08:13:38,698 - Finish: chroot init
+2017-09-03 08:13:38,699 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:13:38,700 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:23:35,593 - Mock Version: 1.4.4
+2017-09-03 08:23:36,312 - Finish: chroot init
+2017-09-03 08:23:36,314 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:23:36,315 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:23:45,409 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:23:45,409 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:23:45,410 - Start: Outputting list of installed packages
+2017-09-03 08:23:45,544 - Finish: Outputting list of installed packages
+2017-09-03 08:31:59,067 - Mock Version: 1.4.4
+2017-09-03 08:31:59,861 - Finish: chroot init
+2017-09-03 08:31:59,863 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:31:59,864 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:32:02,446 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:32:02,446 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:32:02,447 - Start: Outputting list of installed packages
+2017-09-03 08:32:02,573 - Finish: Outputting list of installed packages
+2017-09-03 08:33:00,720 - Mock Version: 1.4.4
+2017-09-03 08:33:01,691 - Finish: chroot init
+2017-09-03 08:33:01,692 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:33:01,693 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:33:44,068 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:33:44,068 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:33:44,069 - Start: Outputting list of installed packages
+2017-09-03 08:33:44,195 - Finish: Outputting list of installed packages
+2017-09-03 08:40:50,795 - Mock Version: 1.4.4
+2017-09-03 08:40:51,755 - Finish: chroot init
+2017-09-03 08:40:51,756 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:40:51,757 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:40:54,493 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:40:54,493 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:40:54,494 - Start: Outputting list of installed packages
+2017-09-03 08:40:54,622 - Finish: Outputting list of installed packages
+2017-09-03 08:47:11,164 - Mock Version: 1.4.4
+2017-09-03 08:47:12,046 - Finish: chroot init
+2017-09-03 08:47:12,048 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:47:12,048 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:47:15,027 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:47:15,027 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:47:15,028 - Start: Outputting list of installed packages
+2017-09-03 08:47:15,154 - Finish: Outputting list of installed packages
+2017-09-03 08:56:00,035 - Mock Version: 1.4.4
+2017-09-03 08:56:00,945 - Finish: chroot init
+2017-09-03 08:56:00,947 - Start: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:00,947 - Start: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:05,680 - Finish: build setup for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:05,680 - Start: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:05,681 - Start: Outputting list of installed packages
+2017-09-03 08:56:05,807 - Finish: Outputting list of installed packages
+2017-09-03 08:56:27,084 - Finish: rpmbuild libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:27,086 - Finish: build phase for libcec-4.0.2-1.el7.centos.src.rpm
+2017-09-03 08:56:27,086 - Finish: run
+2017-09-03 08:58:31,117 - Mock Version: 1.4.4
+2017-09-03 08:58:31,202 - Finish: chroot init
+2017-09-03 09:04:55,918 - Mock Version: 1.4.4
+2017-09-03 09:04:58,383 - Finish: chroot init
+2017-09-03 09:04:58,385 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:04:58,386 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:05:03,143 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:05:03,144 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:05:03,144 - Start: Outputting list of installed packages
+2017-09-03 09:05:03,378 - Finish: Outputting list of installed packages
+2017-09-03 09:16:22,003 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:16:22,004 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:16:22,005 - Finish: run
+2017-09-03 09:50:39,655 - Mock Version: 1.4.4
+2017-09-03 09:50:42,691 - Finish: chroot init
+2017-09-03 09:50:42,693 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:50:42,694 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:50:49,054 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:50:49,054 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 09:50:49,055 - Start: Outputting list of installed packages
+2017-09-03 09:50:49,287 - Finish: Outputting list of installed packages
+2017-09-03 10:10:53,991 - Mock Version: 1.4.4
+2017-09-03 10:10:54,977 - Finish: chroot init
+2017-09-03 10:10:54,978 - Start: build phase for ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:10:54,979 - Start: build setup for ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:13:08,830 - Finish: build setup for ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:13:08,830 - Start: rpmbuild ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:13:08,831 - Start: Outputting list of installed packages
+2017-09-03 10:13:08,994 - Finish: Outputting list of installed packages
+2017-09-03 10:18:18,385 - Finish: rpmbuild ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:18:18,387 - Finish: build phase for ffmpeg-3.1.9-1.el7.centos.src.rpm
+2017-09-03 10:18:18,388 - Finish: run
+2017-09-03 10:39:09,851 - Mock Version: 1.4.4
+2017-09-03 10:39:12,834 - Finish: chroot init
+2017-09-03 10:39:12,835 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 10:39:12,836 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 10:39:17,478 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 10:39:17,478 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 10:39:17,479 - Start: Outputting list of installed packages
+2017-09-03 10:39:17,711 - Finish: Outputting list of installed packages
+2017-09-03 19:08:10,119 - Mock Version: 1.4.4
+2017-09-03 19:08:12,168 - Finish: chroot init
+2017-09-03 19:08:12,170 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:08:12,171 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:08:21,451 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:08:21,451 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:08:21,452 - Start: Outputting list of installed packages
+2017-09-03 19:08:21,685 - Finish: Outputting list of installed packages
+2017-09-03 19:20:07,853 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:20:07,859 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:20:07,862 - Finish: run
+2017-09-03 19:41:02,478 - Mock Version: 1.4.4
+2017-09-03 19:41:05,769 - Finish: chroot init
+2017-09-03 19:41:05,771 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:41:05,772 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:41:13,075 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:41:13,075 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-03 19:41:13,076 - Start: Outputting list of installed packages
+2017-09-03 19:41:13,308 - Finish: Outputting list of installed packages
+2017-09-04 01:52:53,675 - Mock Version: 1.4.4
+2017-09-04 01:52:54,667 - Finish: chroot init
+2017-09-04 01:52:54,669 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 01:52:54,670 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 01:57:17,867 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 01:57:17,867 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 01:57:17,868 - Start: Outputting list of installed packages
+2017-09-04 01:57:18,090 - Finish: Outputting list of installed packages
+2017-09-04 01:58:50,507 - Mock Version: 1.4.4
+2017-09-04 01:58:50,595 - Finish: chroot init
+2017-09-04 01:59:02,468 - Mock Version: 1.4.4
+2017-09-04 01:59:02,546 - Finish: chroot init
+2017-09-04 01:59:05,031 - Finish: run
+2017-09-04 02:00:01,804 - Mock Version: 1.4.4
+2017-09-04 02:00:04,333 - Finish: chroot init
+2017-09-04 02:00:04,335 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:00:04,336 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:00:14,495 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:00:14,495 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:00:14,495 - Start: Outputting list of installed packages
+2017-09-04 02:00:14,716 - Finish: Outputting list of installed packages
+2017-09-04 02:15:54,533 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:15:54,540 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:15:54,543 - Finish: run
+2017-09-04 02:50:39,181 - Mock Version: 1.4.4
+2017-09-04 02:50:42,476 - Finish: chroot init
+2017-09-04 02:50:42,477 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:50:42,478 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:50:47,135 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:50:47,135 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:50:47,136 - Start: Outputting list of installed packages
+2017-09-04 02:50:47,358 - Finish: Outputting list of installed packages
+2017-09-04 02:58:11,404 - Mock Version: 1.4.4
+2017-09-04 02:58:13,989 - Finish: chroot init
+2017-09-04 02:58:13,990 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:58:13,991 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:58:19,919 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:58:19,919 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 02:58:19,920 - Start: Outputting list of installed packages
+2017-09-04 02:58:20,142 - Finish: Outputting list of installed packages
+2017-09-04 03:03:26,931 - Mock Version: 1.4.4
+2017-09-04 03:03:30,089 - Finish: chroot init
+2017-09-04 03:03:30,091 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:03:30,091 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:03:34,568 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:03:34,568 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:03:34,569 - Start: Outputting list of installed packages
+2017-09-04 03:03:34,789 - Finish: Outputting list of installed packages
+2017-09-04 03:11:09,167 - Mock Version: 1.4.4
+2017-09-04 03:11:12,299 - Finish: chroot init
+2017-09-04 03:11:12,301 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:11:12,301 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:11:17,780 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:11:17,780 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:11:17,781 - Start: Outputting list of installed packages
+2017-09-04 03:11:18,001 - Finish: Outputting list of installed packages
+2017-09-04 03:17:23,070 - Mock Version: 1.4.4
+2017-09-04 03:17:26,772 - Finish: chroot init
+2017-09-04 03:17:26,774 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:17:26,774 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:17:31,466 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:17:31,466 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:17:31,467 - Start: Outputting list of installed packages
+2017-09-04 03:17:31,687 - Finish: Outputting list of installed packages
+2017-09-04 03:20:12,920 - Mock Version: 1.4.4
+2017-09-04 03:20:15,979 - Finish: chroot init
+2017-09-04 03:20:15,981 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:20:15,981 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:20:20,313 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:20:20,313 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:20:20,314 - Start: Outputting list of installed packages
+2017-09-04 03:20:20,535 - Finish: Outputting list of installed packages
+2017-09-04 03:22:49,804 - Mock Version: 1.4.4
+2017-09-04 03:22:52,823 - Finish: chroot init
+2017-09-04 03:22:52,825 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:22:52,826 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:22:57,991 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:22:57,992 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:22:57,992 - Start: Outputting list of installed packages
+2017-09-04 03:22:58,214 - Finish: Outputting list of installed packages
+2017-09-04 03:24:35,999 - Mock Version: 1.4.4
+2017-09-04 03:24:39,150 - Finish: chroot init
+2017-09-04 03:24:39,151 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:24:39,152 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:24:44,005 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:24:44,005 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:24:44,006 - Start: Outputting list of installed packages
+2017-09-04 03:24:44,227 - Finish: Outputting list of installed packages
+2017-09-04 03:40:06,001 - Finish: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:40:06,003 - Finish: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-04 03:40:06,004 - Finish: run
+2017-09-05 20:26:38,327 - Mock Version: 1.4.4
+2017-09-05 20:26:38,541 - Finish: chroot init
+2017-09-05 20:26:38,546 - Start: chroot ['shell']
+2017-09-05 20:26:38,571 - Finish: chroot ['shell']
+2017-09-05 21:01:49,482 - Mock Version: 1.4.4
+2017-09-05 21:01:50,477 - Finish: chroot init
+2017-09-05 21:01:50,478 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:01:50,479 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:06:12,840 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:06:12,840 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:06:12,841 - Start: Outputting list of installed packages
+2017-09-05 21:06:13,076 - Finish: Outputting list of installed packages
+2017-09-05 21:12:40,374 - Mock Version: 1.4.4
+2017-09-05 21:12:43,713 - Finish: chroot init
+2017-09-05 21:12:43,714 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:12:43,715 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:12:48,184 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:12:48,184 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:12:48,185 - Start: Outputting list of installed packages
+2017-09-05 21:12:48,406 - Finish: Outputting list of installed packages
+2017-09-05 21:17:32,485 - Mock Version: 1.4.4
+2017-09-05 21:17:35,552 - Finish: chroot init
+2017-09-05 21:17:35,554 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:17:35,554 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:17:39,887 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:17:39,887 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:17:39,888 - Start: Outputting list of installed packages
+2017-09-05 21:17:40,109 - Finish: Outputting list of installed packages
+2017-09-05 21:31:59,724 - Mock Version: 1.4.4
+2017-09-05 21:31:59,809 - Finish: chroot init
+2017-09-05 21:32:08,571 - Finish: run
+2017-09-05 21:33:44,676 - Mock Version: 1.4.4
+2017-09-05 21:33:44,758 - Finish: chroot init
+2017-09-05 21:34:19,596 - Mock Version: 1.4.4
+2017-09-05 21:34:19,680 - Finish: chroot init
+2017-09-05 21:34:21,767 - Finish: run
+2017-09-05 21:56:48,566 - Mock Version: 1.4.4
+2017-09-05 21:56:51,048 - Finish: chroot init
+2017-09-05 21:56:51,049 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:56:51,050 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:56:55,751 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:56:55,751 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 21:56:55,752 - Start: Outputting list of installed packages
+2017-09-05 21:56:55,976 - Finish: Outputting list of installed packages
+2017-09-05 22:05:26,462 - Mock Version: 1.4.4
+2017-09-05 22:05:26,688 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:05:26,689 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:05:56,592 - Mock Version: 1.4.4
+2017-09-05 22:05:59,212 - Finish: chroot init
+2017-09-05 22:05:59,214 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:05:59,215 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:06:04,149 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:06:04,150 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:06:04,150 - Start: Outputting list of installed packages
+2017-09-05 22:06:04,373 - Finish: Outputting list of installed packages
+2017-09-05 22:16:40,557 - Mock Version: 1.4.4
+2017-09-05 22:16:40,792 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:40,793 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:51,561 - Mock Version: 1.4.4
+2017-09-05 22:16:54,015 - Finish: chroot init
+2017-09-05 22:16:54,016 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:54,017 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:58,639 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:58,639 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:16:58,640 - Start: Outputting list of installed packages
+2017-09-05 22:16:58,863 - Finish: Outputting list of installed packages
+2017-09-05 22:17:53,383 - Mock Version: 1.4.4
+2017-09-05 22:17:55,857 - Finish: chroot init
+2017-09-05 22:17:55,859 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:17:55,860 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:18:01,711 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:18:01,711 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-05 22:18:01,712 - Start: Outputting list of installed packages
+2017-09-05 22:18:01,935 - Finish: Outputting list of installed packages
+2017-09-06 02:54:12,712 - Mock Version: 1.4.4
+2017-09-06 02:54:12,804 - Finish: chroot init
+2017-09-06 02:54:18,115 - Finish: run
+2017-09-06 02:54:30,253 - Mock Version: 1.4.4
+2017-09-06 02:54:32,787 - Finish: chroot init
+2017-09-06 02:54:32,789 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:54:32,790 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:54:37,353 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:54:37,353 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:54:37,353 - Start: Outputting list of installed packages
+2017-09-06 02:54:37,577 - Finish: Outputting list of installed packages
+2017-09-06 02:55:28,318 - Mock Version: 1.4.4
+2017-09-06 02:55:28,409 - Finish: chroot init
+2017-09-06 02:55:33,310 - Finish: run
+2017-09-06 02:55:38,661 - Mock Version: 1.4.4
+2017-09-06 02:55:41,103 - Finish: chroot init
+2017-09-06 02:55:41,104 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:55:41,105 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:55:45,539 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:55:45,539 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:55:45,540 - Start: Outputting list of installed packages
+2017-09-06 02:55:45,764 - Finish: Outputting list of installed packages
+2017-09-06 02:56:03,838 - Mock Version: 1.4.4
+2017-09-06 02:56:03,919 - Finish: chroot init
+2017-09-06 02:56:08,039 - Finish: run
+2017-09-06 02:56:10,393 - Mock Version: 1.4.4
+2017-09-06 02:56:13,778 - Finish: chroot init
+2017-09-06 02:56:13,780 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:56:13,781 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:56:18,462 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:56:18,462 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 02:56:18,463 - Start: Outputting list of installed packages
+2017-09-06 02:56:18,687 - Finish: Outputting list of installed packages
+2017-09-06 03:04:32,524 - Mock Version: 1.4.4
+2017-09-06 03:04:32,615 - Finish: chroot init
+2017-09-06 03:04:55,661 - Mock Version: 1.4.4
+2017-09-06 03:04:55,741 - Finish: chroot init
+2017-09-06 03:05:13,479 - Mock Version: 1.4.4
+2017-09-06 03:05:13,822 - Finish: chroot init
+2017-09-06 03:05:31,794 - Finish: run
+2017-09-06 03:05:39,847 - Mock Version: 1.4.4
+2017-09-06 03:05:42,958 - Finish: chroot init
+2017-09-06 03:05:42,959 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:05:42,960 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:05:47,370 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:05:47,370 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:05:47,371 - Start: Outputting list of installed packages
+2017-09-06 03:05:47,600 - Finish: Outputting list of installed packages
+2017-09-06 03:13:26,519 - Mock Version: 1.4.4
+2017-09-06 03:13:29,513 - Finish: chroot init
+2017-09-06 03:13:29,515 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:13:29,516 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:13:34,412 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:13:34,412 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:13:34,413 - Start: Outputting list of installed packages
+2017-09-06 03:13:34,642 - Finish: Outputting list of installed packages
+2017-09-06 03:26:20,196 - Mock Version: 1.4.4
+2017-09-06 03:26:22,676 - Finish: chroot init
+2017-09-06 03:26:22,678 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:26:22,678 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:26:28,557 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:26:28,557 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:26:28,558 - Start: Outputting list of installed packages
+2017-09-06 03:26:28,787 - Finish: Outputting list of installed packages
+2017-09-06 03:28:14,483 - Mock Version: 1.4.4
+2017-09-06 03:28:16,978 - Finish: chroot init
+2017-09-06 03:28:16,980 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:28:16,981 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:28:21,692 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:28:21,692 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:28:21,693 - Start: Outputting list of installed packages
+2017-09-06 03:28:21,922 - Finish: Outputting list of installed packages
+2017-09-06 03:29:25,139 - Mock Version: 1.4.4
+2017-09-06 03:29:27,596 - Finish: chroot init
+2017-09-06 03:29:27,597 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:29:27,598 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:29:32,785 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:29:32,785 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:29:32,786 - Start: Outputting list of installed packages
+2017-09-06 03:29:33,015 - Finish: Outputting list of installed packages
+2017-09-06 03:35:42,083 - Mock Version: 1.4.4
+2017-09-06 03:35:44,645 - Finish: chroot init
+2017-09-06 03:35:44,646 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:35:44,647 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:35:49,491 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:35:49,491 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:35:49,492 - Start: Outputting list of installed packages
+2017-09-06 03:35:49,721 - Finish: Outputting list of installed packages
+2017-09-06 03:36:17,100 - Mock Version: 1.4.4
+2017-09-06 03:36:20,251 - Finish: chroot init
+2017-09-06 03:36:20,253 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:36:20,254 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:36:25,240 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:36:25,240 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:36:25,241 - Start: Outputting list of installed packages
+2017-09-06 03:36:25,470 - Finish: Outputting list of installed packages
+2017-09-06 03:37:04,371 - Mock Version: 1.4.4
+2017-09-06 03:37:07,188 - Finish: chroot init
+2017-09-06 03:37:07,190 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:37:07,191 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:37:12,234 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:37:12,234 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:37:12,235 - Start: Outputting list of installed packages
+2017-09-06 03:37:12,464 - Finish: Outputting list of installed packages
+2017-09-06 03:43:12,215 - Mock Version: 1.4.4
+2017-09-06 03:43:13,156 - Finish: chroot init
+2017-09-06 03:43:13,158 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:43:13,159 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:43:17,875 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:43:17,875 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 03:43:17,875 - Start: Outputting list of installed packages
+2017-09-06 03:43:18,104 - Finish: Outputting list of installed packages
+2017-09-06 11:36:39,921 - Mock Version: 1.4.4
+2017-09-06 11:36:42,456 - Finish: chroot init
+2017-09-06 11:36:42,457 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:36:42,458 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:36:50,959 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:36:50,960 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:36:50,960 - Start: Outputting list of installed packages
+2017-09-06 11:36:51,190 - Finish: Outputting list of installed packages
+2017-09-06 11:40:30,690 - Mock Version: 1.4.4
+2017-09-06 11:40:33,956 - Finish: chroot init
+2017-09-06 11:40:33,958 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:40:33,959 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:40:41,033 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:40:41,033 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:40:41,034 - Start: Outputting list of installed packages
+2017-09-06 11:40:41,263 - Finish: Outputting list of installed packages
+2017-09-06 11:41:25,143 - Mock Version: 1.4.4
+2017-09-06 11:41:27,606 - Finish: chroot init
+2017-09-06 11:41:27,607 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:41:27,608 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:41:33,403 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:41:33,403 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:41:33,404 - Start: Outputting list of installed packages
+2017-09-06 11:41:33,633 - Finish: Outputting list of installed packages
+2017-09-06 11:42:10,443 - Mock Version: 1.4.4
+2017-09-06 11:42:10,534 - Finish: chroot init
+2017-09-06 11:42:45,201 - Mock Version: 1.4.4
+2017-09-06 11:42:45,293 - Finish: chroot init
+2017-09-06 11:42:51,436 - Finish: run
+2017-09-06 11:42:56,813 - Mock Version: 1.4.4
+2017-09-06 11:42:59,266 - Finish: chroot init
+2017-09-06 11:42:59,268 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:42:59,269 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:43:05,099 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:43:05,099 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:43:05,100 - Start: Outputting list of installed packages
+2017-09-06 11:43:05,329 - Finish: Outputting list of installed packages
+2017-09-06 11:48:48,350 - Mock Version: 1.4.4
+2017-09-06 11:48:51,758 - Finish: chroot init
+2017-09-06 11:48:51,760 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:48:51,760 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:48:58,594 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:48:58,594 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:48:58,595 - Start: Outputting list of installed packages
+2017-09-06 11:48:58,825 - Finish: Outputting list of installed packages
+2017-09-06 11:50:41,172 - Mock Version: 1.4.4
+2017-09-06 11:50:44,273 - Finish: chroot init
+2017-09-06 11:50:44,274 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:50:44,275 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:50:51,725 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:50:51,725 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:50:51,726 - Start: Outputting list of installed packages
+2017-09-06 11:50:51,955 - Finish: Outputting list of installed packages
+2017-09-06 11:51:49,631 - Mock Version: 1.4.4
+2017-09-06 11:51:52,709 - Finish: chroot init
+2017-09-06 11:51:52,710 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:51:52,711 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:51:59,683 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:51:59,684 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:51:59,684 - Start: Outputting list of installed packages
+2017-09-06 11:51:59,913 - Finish: Outputting list of installed packages
+2017-09-06 11:52:47,531 - Mock Version: 1.4.4
+2017-09-06 11:52:49,983 - Finish: chroot init
+2017-09-06 11:52:49,985 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:52:49,986 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:52:57,399 - Finish: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:52:57,399 - Start: rpmbuild kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:52:57,400 - Start: Outputting list of installed packages
+2017-09-06 11:52:57,629 - Finish: Outputting list of installed packages
+2017-09-06 11:54:39,805 - Mock Version: 1.4.4
+2017-09-06 11:54:40,685 - Finish: chroot init
+2017-09-06 11:54:40,687 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:54:40,687 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:55:57,304 - Mock Version: 1.4.4
+2017-09-06 11:55:58,182 - Finish: chroot init
+2017-09-06 11:55:58,183 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 11:55:58,184 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:01:54,058 - Mock Version: 1.4.4
+2017-09-06 12:01:54,912 - Finish: chroot init
+2017-09-06 12:01:54,914 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:01:54,915 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:02:43,824 - Mock Version: 1.4.4
+2017-09-06 12:02:44,666 - Finish: chroot init
+2017-09-06 12:02:44,668 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:02:44,668 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:08:14,236 - Mock Version: 1.4.4
+2017-09-06 12:08:15,362 - Finish: chroot init
+2017-09-06 12:08:15,364 - Start: build phase for kodi-18.0-1.el7.centos.src.rpm
+2017-09-06 12:08:15,365 - Start: build setup for kodi-18.0-1.el7.centos.src.rpm
+2017-09-23 01:07:36,515 - Mock Version: 1.4.4
+2017-09-23 01:07:36,620 - Start: yum install
+2017-09-23 01:09:47,944 - Finish: yum install
+2017-09-23 01:09:48,895 - Start: creating root cache
+2017-09-23 01:09:58,303 - Finish: creating root cache
+2017-09-23 01:09:58,305 - Finish: chroot init
+2017-09-23 01:09:58,448 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:09:58,449 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:09:58,843 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:09:58,843 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:09:58,844 - Start: Outputting list of installed packages
+2017-09-23 01:09:58,960 - Finish: Outputting list of installed packages
+2017-09-23 01:15:09,110 - Mock Version: 1.4.4
+2017-09-23 01:15:09,238 - Finish: chroot init
+2017-09-23 01:15:23,970 - Finish: run
+2017-09-23 01:15:28,735 - Mock Version: 1.4.4
+2017-09-23 01:15:29,602 - Finish: chroot init
+2017-09-23 01:15:29,603 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:15:29,604 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:15:32,788 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:15:32,788 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:15:32,789 - Start: Outputting list of installed packages
+2017-09-23 01:15:32,910 - Finish: Outputting list of installed packages
+2017-09-23 01:18:39,806 - Mock Version: 1.4.4
+2017-09-23 01:18:40,699 - Finish: chroot init
+2017-09-23 01:18:40,700 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:18:40,701 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:18:43,211 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:18:43,212 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:18:43,212 - Start: Outputting list of installed packages
+2017-09-23 01:18:43,334 - Finish: Outputting list of installed packages
+2017-09-23 01:19:28,705 - Mock Version: 1.4.4
+2017-09-23 01:19:28,818 - Finish: chroot init
+2017-09-23 01:19:31,064 - Finish: run
+2017-09-23 01:27:09,472 - Mock Version: 1.4.4
+2017-09-23 01:27:09,567 - Finish: chroot init
+2017-09-23 01:27:49,339 - Finish: run
+2017-09-23 01:28:06,084 - Mock Version: 1.4.4
+2017-09-23 01:28:06,998 - Finish: chroot init
+2017-09-23 01:28:06,999 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:28:07,000 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:28:09,573 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:28:09,574 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:28:09,574 - Start: Outputting list of installed packages
+2017-09-23 01:28:09,733 - Finish: Outputting list of installed packages
+2017-09-23 01:46:59,426 - Mock Version: 1.4.4
+2017-09-23 01:47:00,483 - Finish: chroot init
+2017-09-23 01:47:00,485 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:47:00,486 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:47:03,527 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:47:03,527 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:47:03,528 - Start: Outputting list of installed packages
+2017-09-23 01:47:03,686 - Finish: Outputting list of installed packages
+2017-09-23 01:52:05,445 - Mock Version: 1.4.4
+2017-09-23 01:52:06,490 - Finish: chroot init
+2017-09-23 01:52:06,491 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:52:06,492 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:52:09,499 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:52:09,499 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 01:52:09,500 - Start: Outputting list of installed packages
+2017-09-23 01:52:09,658 - Finish: Outputting list of installed packages
+2017-09-23 02:00:49,217 - Mock Version: 1.4.4
+2017-09-23 02:00:50,096 - Finish: chroot init
+2017-09-23 02:00:50,098 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:00:50,099 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:00:52,856 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:00:52,856 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:00:52,857 - Start: Outputting list of installed packages
+2017-09-23 02:00:53,015 - Finish: Outputting list of installed packages
+2017-09-23 02:06:35,377 - Mock Version: 1.4.4
+2017-09-23 02:06:36,494 - Finish: chroot init
+2017-09-23 02:06:36,496 - Start: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:36,496 - Start: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:53,036 - Finish: build setup for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:53,036 - Start: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:53,037 - Start: Outputting list of installed packages
+2017-09-23 02:06:53,230 - Finish: Outputting list of installed packages
+2017-09-23 02:06:57,177 - Finish: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:57,178 - Finish: build phase for megaraid_sas-07.702.06.00-1.src.rpm
+2017-09-23 02:06:57,179 - Finish: run
