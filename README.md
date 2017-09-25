@@ -10,10 +10,10 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
 ### Installing
 
-CentOS / RHEL 7
+EL7
 
 ```
-curl -L https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/mooz-centos.repo > /etc/yum.repos.d/mooz-centos.repo
+curl -L https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo > /etc/yum.repos.d/elmooz.repo
 ```
 
 ### Install packages

@@ -1,5 +1,0 @@
-[mooz-centos]
-name=mooz-centos - $basearch
-baseurl=https://github.com/moozhub/yum-repo-mooz/raw/master/centos/$releasever/$basearch/
-enabled=1
-gpgcheck=0

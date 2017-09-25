@@ -1,0 +1,5 @@
+[elmooz]
+name=elmooz - $basearch
+baseurl=https://github.com/moozhub/yum-repo-mooz/raw/master/el/$releasever/$basearch/
+enabled=1
+gpgcheck=0
