@@ -4,7 +4,7 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
 ### Installing
 
-CentOS / RHEL
+CentOS / RHEL 7
 
 ```
 curl -L https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/mooz-centos.repo > /etc/yum.repos.d/mooz-centos.repo
