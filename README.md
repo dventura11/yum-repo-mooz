@@ -2,6 +2,12 @@
 
 A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
+### Repository highlights
+
+* kodi (stable)
+* kmod-megaraid_sas - LSI MegaRAID kernel module (latest)
+* rtorrent (git)
+
 ### Installing
 
 CentOS / RHEL 7
