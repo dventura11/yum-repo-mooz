@@ -28,10 +28,10 @@ Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca 
 
 Memory:
               total        used        free      shared  buff/cache   available
-Mem:        7900612      284352     5546948        9024     2069312     7276092
+Mem:        7900600      580248     4104276        9076     3216076     6953868
 Swap:       1023996           0     1023996
 
 
 Storage:
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/sda3        40G   13G   28G  31% /
+/dev/sda3        40G   11G   30G  26% /

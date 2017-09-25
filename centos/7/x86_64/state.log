@@ -687,3 +687,20 @@
 2017-09-23 02:06:57,177 - Finish: rpmbuild megaraid_sas-07.702.06.00-1.src.rpm
 2017-09-23 02:06:57,178 - Finish: build phase for megaraid_sas-07.702.06.00-1.src.rpm
 2017-09-23 02:06:57,179 - Finish: run
+2017-09-24 21:34:21,285 - Mock Version: 1.4.4
+2017-09-24 21:34:51,672 - Mock Version: 1.4.4
+2017-09-24 21:35:01,246 - Finish: chroot init
+2017-09-24 21:35:01,248 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:35:01,249 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:35:11,387 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:35:11,387 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:35:11,389 - Start: Outputting list of installed packages
+2017-09-24 21:35:12,301 - Finish: Outputting list of installed packages
+2017-09-24 21:39:13,814 - Mock Version: 1.4.4
+2017-09-24 21:39:16,535 - Finish: chroot init
+2017-09-24 21:39:16,537 - Start: build phase for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:39:16,538 - Start: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:45:27,421 - Finish: build setup for kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:45:27,421 - Start: rpmbuild kodi-17.4-1.el7.centos.src.rpm
+2017-09-24 21:45:27,423 - Start: Outputting list of installed packages
+2017-09-24 21:45:27,662 - Finish: Outputting list of installed packages
