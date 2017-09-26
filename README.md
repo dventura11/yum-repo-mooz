@@ -4,7 +4,7 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
 ### Overview
 
-My (sometimes pathetic) attempts at building RPM packages for programs I need. Hopefully they are of use to others.
+My attempts at building RPM packages for programs I need. Hopefully they are of use to others.
 
 ### Repository highlights
 
