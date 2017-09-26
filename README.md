@@ -19,7 +19,7 @@ My (sometimes pathetic) attempts at building RPM packages for programs I need. H
 CentOS 7 / EL7
 
 ```
-curl -L https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo > /etc/yum.repos.d/elmooz.repo
+sudo yum-config-manager --add-repo=https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo
 ```
 
 ### Install packages
