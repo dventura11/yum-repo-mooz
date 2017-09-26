@@ -25,6 +25,6 @@ sudo yum-config-manager --add-repo=https://raw.githubusercontent.com/moozhub/yum
 ### Install packages
 
 ```
-yum clean all
-yum install kodi
+sudo yum clean all
+sudo yum install kodi
 ```
