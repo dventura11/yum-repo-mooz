@@ -2,6 +2,10 @@
 
 A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
+### Overview
+
+My (sometimes pathetic) attempts at building RPM packages for programs I need. Hopefully they are of use to others.
+
 ### Repository highlights
 
 * [kodi:krypton](https://github.com/xbmc/xbmc/tree/Krypton)
@@ -12,7 +16,7 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
 ### Installing
 
-EL7
+CentOS 7 / EL7
 
 ```
 curl -L https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo > /etc/yum.repos.d/elmooz.repo
