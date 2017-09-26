@@ -8,6 +8,7 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 * [rtorrent:master](https://github.com/rakshasa/rtorrent)
 * [kmod-megaraid_sas-07.702.06.00](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS) - Latest LSI megaraid_sas kernel module
 * [megacli-8.07.14](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a3.3.megacli) - Latest LSI megacli utility
+* [storcli-1.23.02](https://www.thomas-krenn.com/en/wiki/StorCLI) - Latest LSI storcli utility
 
 ### Installing
 
