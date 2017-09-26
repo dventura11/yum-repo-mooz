@@ -14,6 +14,7 @@ My (sometimes pathetic) attempts at building RPM packages for programs I need. H
 * [megacli-8.07.14](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a3.3.megacli) - Latest LSI megacli utility
 * [storcli-1.23.02](https://www.thomas-krenn.com/en/wiki/StorCLI) - Latest LSI storcli utility
 * [openrazer:stable](https://github.com/openrazer/openrazer) - A collection of Linux drivers for Razer devices
+* [polychromatic:stable](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux
 
 ### Installing
 
