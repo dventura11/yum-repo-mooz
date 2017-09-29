@@ -4,16 +4,19 @@ A yum repo maintained by [@moozhub](https://github.com/moozhub)
 
 ### Overview
 
-My (sometimes pathetic) attempts at building RPM packages for programs I need. Hopefully they are of use to others.
+My attempts at building RPM packages for programs I need. Hopefully they are of use to others.
+
+Using this repository assumes that you are also using the [EPEL](https://fedoraproject.org/wiki/EPEL) repo.
 
 ### Repository highlights
 
 * [kodi:krypton](https://github.com/xbmc/xbmc/tree/Krypton) - Kodi Home Theater Software
 * [rtorrent:master](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
-* [kmod-megaraid_sas-07.702.06.00](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a2.Linuxkerneldrivers) - Latest LSI megaraid_sas kernel module
-* [megacli-8.07.14](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a3.3.megacli) - Latest LSI megacli utility
-* [storcli-1.23.02](https://www.thomas-krenn.com/en/wiki/StorCLI) - Latest LSI storcli utility
+* [kmod-megaraid_sas-07.702.06.00](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a2.Linuxkerneldrivers) - LSI megaraid_sas kernel module
+* [megacli-8.07.14](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a3.3.megacli) - LSI megacli utility
+* [storcli-1.23.02](https://www.thomas-krenn.com/en/wiki/StorCLI) - LSI storcli utility
 * [openrazer:stable](https://github.com/openrazer/openrazer) - A collection of Linux drivers for Razer devices
+* [solaar-0.9.2](https://github.com/pwr/Solaar) - Linux devices manager for the Logitech Unifying Receiver
 
 ### Installing
 
