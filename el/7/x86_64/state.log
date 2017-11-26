@@ -1,0 +1,160 @@
+2017-10-15 23:53:48,234 - Mock Version: 1.4.6
+2017-10-15 23:54:08,748 - Finish: chroot init
+2017-10-15 23:54:08,750 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:54:08,751 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:54:21,821 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:54:21,821 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:54:21,821 - Start: Outputting list of installed packages
+2017-10-15 23:54:21,954 - Finish: Outputting list of installed packages
+2017-10-15 23:57:01,208 - Mock Version: 1.4.6
+2017-10-15 23:57:13,804 - Finish: chroot init
+2017-10-15 23:57:13,806 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:57:13,807 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:57:19,615 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:57:19,615 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-15 23:57:19,616 - Start: Outputting list of installed packages
+2017-10-15 23:57:20,153 - Finish: Outputting list of installed packages
+2017-10-16 00:01:12,528 - Mock Version: 1.4.6
+2017-10-16 00:01:37,929 - Finish: chroot init
+2017-10-16 00:01:37,930 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:01:37,931 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:01:42,634 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:01:42,634 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:01:42,635 - Start: Outputting list of installed packages
+2017-10-16 00:01:42,768 - Finish: Outputting list of installed packages
+2017-10-16 00:10:41,703 - Mock Version: 1.4.6
+2017-10-16 00:10:49,552 - Finish: chroot init
+2017-10-16 00:10:49,554 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:10:49,555 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:10:54,092 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:10:54,092 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:10:54,093 - Start: Outputting list of installed packages
+2017-10-16 00:10:54,228 - Finish: Outputting list of installed packages
+2017-10-16 00:16:48,444 - Mock Version: 1.4.6
+2017-10-16 00:16:58,369 - Finish: chroot init
+2017-10-16 00:16:58,373 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:16:58,374 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:17:01,412 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:17:01,412 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:17:01,413 - Start: Outputting list of installed packages
+2017-10-16 00:17:01,546 - Finish: Outputting list of installed packages
+2017-10-16 00:26:14,116 - Mock Version: 1.4.6
+2017-10-16 00:26:28,303 - Finish: chroot init
+2017-10-16 00:26:28,305 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:26:28,306 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:26:31,143 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:26:31,143 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:26:31,144 - Start: Outputting list of installed packages
+2017-10-16 00:26:31,277 - Finish: Outputting list of installed packages
+2017-10-16 00:49:12,035 - Mock Version: 1.4.6
+2017-10-16 00:49:16,542 - Finish: chroot init
+2017-10-16 00:49:16,544 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:49:16,545 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:49:19,764 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:49:19,764 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 00:49:19,765 - Start: Outputting list of installed packages
+2017-10-16 00:49:20,190 - Finish: Outputting list of installed packages
+2017-10-16 01:00:51,043 - Mock Version: 1.4.6
+2017-10-16 01:00:55,881 - Finish: chroot init
+2017-10-16 01:00:55,882 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:00:55,883 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:01:00,048 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:01:00,048 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:01:00,049 - Start: Outputting list of installed packages
+2017-10-16 01:01:00,474 - Finish: Outputting list of installed packages
+2017-10-16 01:04:36,574 - Mock Version: 1.4.6
+2017-10-16 01:04:48,874 - Finish: chroot init
+2017-10-16 01:04:48,876 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:04:48,876 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:04:52,136 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:04:52,136 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:04:52,137 - Start: Outputting list of installed packages
+2017-10-16 01:04:52,561 - Finish: Outputting list of installed packages
+2017-10-16 01:15:46,765 - Mock Version: 1.4.6
+2017-10-16 01:15:55,901 - Finish: chroot init
+2017-10-16 01:15:55,902 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:15:55,903 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:16:00,854 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:16:00,854 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:16:00,855 - Start: Outputting list of installed packages
+2017-10-16 01:16:01,010 - Finish: Outputting list of installed packages
+2017-10-16 01:27:19,567 - Mock Version: 1.4.6
+2017-10-16 01:27:48,943 - Finish: chroot init
+2017-10-16 01:27:48,944 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:27:48,945 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:27:56,889 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:27:56,889 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:27:56,890 - Start: Outputting list of installed packages
+2017-10-16 01:27:57,023 - Finish: Outputting list of installed packages
+2017-10-16 01:37:13,970 - Mock Version: 1.4.6
+2017-10-16 01:37:32,319 - Finish: chroot init
+2017-10-16 01:37:32,321 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:37:32,322 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:37:35,920 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:37:35,926 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:37:35,927 - Start: Outputting list of installed packages
+2017-10-16 01:37:36,062 - Finish: Outputting list of installed packages
+2017-10-16 01:41:17,576 - Mock Version: 1.4.6
+2017-10-16 01:41:31,191 - Finish: chroot init
+2017-10-16 01:41:31,193 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:41:31,194 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:41:44,797 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:41:44,797 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 01:41:44,802 - Start: Outputting list of installed packages
+2017-10-16 01:41:44,963 - Finish: Outputting list of installed packages
+2017-10-16 02:00:50,689 - Mock Version: 1.4.6
+2017-10-16 02:00:59,345 - Finish: chroot init
+2017-10-16 02:00:59,346 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:00:59,347 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:01:08,781 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:01:08,781 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:01:08,782 - Start: Outputting list of installed packages
+2017-10-16 02:01:08,919 - Finish: Outputting list of installed packages
+2017-10-16 02:35:34,873 - Mock Version: 1.4.6
+2017-10-16 02:35:47,219 - Finish: chroot init
+2017-10-16 02:35:47,220 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:35:47,221 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:35:54,267 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:35:54,267 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:35:54,268 - Start: Outputting list of installed packages
+2017-10-16 02:35:54,727 - Finish: Outputting list of installed packages
+2017-10-16 02:51:19,173 - Mock Version: 1.4.6
+2017-10-16 02:51:31,615 - Finish: chroot init
+2017-10-16 02:51:31,623 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:51:31,624 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:51:37,756 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:51:37,756 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:51:37,757 - Start: Outputting list of installed packages
+2017-10-16 02:51:38,175 - Finish: Outputting list of installed packages
+2017-10-16 02:59:14,256 - Mock Version: 1.4.6
+2017-10-16 02:59:38,664 - Finish: chroot init
+2017-10-16 02:59:38,666 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:59:38,667 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:59:42,749 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:59:42,749 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 02:59:42,750 - Start: Outputting list of installed packages
+2017-10-16 02:59:43,384 - Finish: Outputting list of installed packages
+2017-10-16 03:10:11,493 - Mock Version: 1.4.6
+2017-10-16 03:10:30,838 - Finish: chroot init
+2017-10-16 03:10:30,840 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 03:10:30,841 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 03:10:34,586 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 03:10:34,586 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-16 03:10:34,587 - Start: Outputting list of installed packages
+2017-10-16 03:10:34,720 - Finish: Outputting list of installed packages
+2017-10-19 01:46:23,830 - Mock Version: 1.4.6
+2017-10-19 01:46:35,652 - Finish: chroot init
+2017-10-19 01:46:35,655 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:46:35,656 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:46:40,745 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:46:40,745 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:46:40,749 - Start: Outputting list of installed packages
+2017-10-19 01:46:41,226 - Finish: Outputting list of installed packages
+2017-10-19 01:48:08,530 - Mock Version: 1.4.6
+2017-10-19 01:48:22,331 - Finish: chroot init
+2017-10-19 01:48:22,335 - Start: build phase for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:48:22,336 - Start: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:48:27,591 - Finish: build setup for rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:48:27,591 - Start: rpmbuild rtorrent-ps-0.9.6-20170929git.el7.src.rpm
+2017-10-19 01:48:27,592 - Start: Outputting list of installed packages
+2017-10-19 01:48:27,739 - Finish: Outputting list of installed packages
