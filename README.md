@@ -10,7 +10,7 @@ Using this repository assumes that you are also using the [EPEL](https://fedorap
 
 ### Repository highlights
 
-* [kodi:17.5](https://github.com/xbmc/xbmc/tree/Krypton) - Kodi Home Theater Software
+* [kodi-17.5](https://github.com/xbmc/xbmc/tree/Krypton) - Kodi Home Theater Software
 * [rtorrent:master](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * [kmod-megaraid_sas-07.702.06.00](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a2.Linuxkerneldrivers) - LSI megaraid_sas kernel module
 * [megacli-8.07.14](https://hwraid.le-vert.net/wiki/LSIMegaRAIDSAS#a3.3.megacli) - LSI megacli utility
